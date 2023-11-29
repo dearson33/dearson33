@@ -12,7 +12,7 @@
 
 ##### Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=bash,py,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,py)](https://skillicons.dev)
 
 
 ##### Some of the technologies I have worked with
