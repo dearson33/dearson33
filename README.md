@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## I'm a Devops at Scrappingpenguins
 
-- 👨‍💻 I’m currently working on Pipelines for scraping apps
+- 👨‍💻 I’m currently working on Pipelines for scrapping apps
 - 📚 Learning everything about DevOps and Cloud 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
