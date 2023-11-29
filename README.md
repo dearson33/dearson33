@@ -12,7 +12,7 @@
 
 ##### Languages I use
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ##### Some of the technologies I have worked with
