@@ -4,8 +4,8 @@
 
 ## I'm a Devops at Scrappingpenguins
 
-- 👨‍💻 I’m currently working on Pipelines for scrapping apps
-- 📚 Learning everything about DevOps and Cloud 😅
+- 👨‍💻 I’m currently working on Pipelines for scrapping apps.
+- 📚 Learning everything about DevOps and Cloud.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
